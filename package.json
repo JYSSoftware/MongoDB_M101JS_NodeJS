@@ -1,0 +1,19 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "MongoDB M101JS: MongoDB for Node.js Developer",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JYSSoftware/MongoDB_M101JS_NodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JYSSoftware/MongoDB_M101JS_NodeJS/issues"
+  },
+  "homepage": "https://github.com/JYSSoftware/MongoDB_M101JS_NodeJS#readme"
+}
